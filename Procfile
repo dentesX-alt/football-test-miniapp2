@@ -1,0 +1,1 @@
+worker: python football_bot1.py
